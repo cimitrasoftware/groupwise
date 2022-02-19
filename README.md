@@ -1,6 +1,6 @@
 GroupWise Admin Helpdesk Scripts by Cimitra
-Version: 1.0
-Date 6/3/2020
+Version: 2.0
+Date 2/18/2022
 
 Author: Tay Kratzer tay@cimitra.com
 
