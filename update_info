@@ -1,3 +1,6 @@
+Latest Version Release Date: 3/9/2022
+Removed the ability to remove Nicknames, there seems to be a bug in the GroupWise API in regards to Nicknames
+
 Latest Version Release Date: 2/19/2022
 Created multi-purpose Cimitra Actions
 
